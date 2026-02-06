@@ -33,54 +33,54 @@ platforms:
   enabled: true                         # 是否启用热榜平台抓取
   sources:
   
-- id: "eol-policy"
-  name: "中国教育在线 政策资讯"
-
-- id: "eol-news"
-  name: "中国教育在线 教育新闻"
-
-- id: "jyb-news"
-  name: "中国教育报 新闻"
-
-- id: "moe-policy"
-  name: "教育部 政策文件"
-
-- id: "moe-news"
-  name: "教育部 工作动态"
-
-- id: "jyb-theory"
-  name: "中国教育报 理论观察"
-
-- id: "jmd-edu"
-  name: "芥末堆 教育产业"
-
-- id: "duojing"
-  name: "多鲸 教育行业观察"
-
-- id: "xdy-camp"
-  name: "校长派 行业资讯"
-
-- id: "eduview"
-  name: "教育观察 行业评论"
-- id: "edsurge-news"
-  name: "EdSurge 教育科技"
-
-- id: "edweek-news"
-  name: "Education Week 教育新闻"
-
-- id: "highered-dive"
-  name: "Higher Ed Dive 高等教育"
-
-- id: "k12-dive"
-  name: "K12 Dive 基础教育"
-- id: "familyedu"
-  name: "家庭教育指导服务平台"
-
-- id: "sxedu"
-  name: "素质教育 行业资讯"
-
-- id: "learning-method"
-  name: "学习方法与教育理念精选"
+      - id: "eol-policy"
+        name: "中国教育在线 政策资讯"
+      
+      - id: "eol-news"
+        name: "中国教育在线 教育新闻"
+      
+      - id: "jyb-news"
+        name: "中国教育报 新闻"
+      
+      - id: "moe-policy"
+        name: "教育部 政策文件"
+      
+      - id: "moe-news"
+        name: "教育部 工作动态"
+      
+      - id: "jyb-theory"
+        name: "中国教育报 理论观察"
+      
+      - id: "jmd-edu"
+        name: "芥末堆 教育产业"
+      
+      - id: "duojing"
+        name: "多鲸 教育行业观察"
+      
+      - id: "xdy-camp"
+        name: "校长派 行业资讯"
+      
+      - id: "eduview"
+        name: "教育观察 行业评论"
+      - id: "edsurge-news"
+        name: "EdSurge 教育科技"
+      
+      - id: "edweek-news"
+        name: "Education Week 教育新闻"
+      
+      - id: "highered-dive"
+        name: "Higher Ed Dive 高等教育"
+      
+      - id: "k12-dive"
+        name: "K12 Dive 基础教育"
+      - id: "familyedu"
+        name: "家庭教育指导服务平台"
+      
+      - id: "sxedu"
+        name: "素质教育 行业资讯"
+      
+      - id: "learning-method"
+        name: "学习方法与教育理念精选"
 
 # ===============================================================
 # 3. 数据源 - RSS 订阅
